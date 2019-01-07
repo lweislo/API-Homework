@@ -1,0 +1,624 @@
+Getting data for set number 0: Killadysert... Success!
+Getting data for set number 0: Baoji... Success!
+Getting data for set number 0: Yarlykovo... Success!
+Getting data for set number 0: Vals-pres-le-Puy... Success!
+Getting data for set number 0: Wald im Pinzgau... Success!
+Getting data for set number 0: Guagua... Success!
+Getting data for set number 0: Willanzheim... Success!
+Getting data for set number 0: Loíza Municipio... Success!
+Getting data for set number 0: Unanu Municipality... Success!
+Getting data for set number 0: Negenborn... Success!
+Getting data for set number 0: Buadiposo-Buntong... Success!
+Getting data for set number 0: Cangas... Success!
+Getting data for set number 0: Penamacor... Success!
+Getting data for set number 0: Casalbordino... Success!
+Getting data for set number 0: Tlapa de Comonfort... Success!
+Getting data for set number 0: Arrondissement de Vienne... Success!
+Getting data for set number 0: Ochamchire... Success!
+Getting data for set number 0: Insel... Success!
+Getting data for set number 0: Villaviciosa de Cordoba... Success!
+Getting data for set number 0: Gallmersgarten... Success!
+Getting data for set number 0: Pleasant Grove... Success!
+Getting data for set number 0: Turhal... Success!
+Getting data for set number 0: Hirel... Success!
+Getting data for set number 0: Arcins... Success!
+Getting data for set number 0: Charraix... Success!
+Getting data for set number 0: Antigua Ocotepeque... Success!
+Getting data for set number 0: Bichl... Success!
+Getting data for set number 0: Dalmatovo... Success!
+Getting data for set number 0: Grashevo... Success!
+Getting data for set number 0: Heighington... Success!
+Getting data for set number 0: Contrecoeur... Success!
+Getting data for set number 0: Ahuatepec... Success!
+Getting data for set number 0: Kasimovo... Success!
+Getting data for set number 0: Mogadouro... Success!
+Getting data for set number 0: Charlestown... Success!
+Getting data for set number 0: Ash Shahil... Success!
+Getting data for set number 0: Gourbesville... Success!
+Getting data for set number 0: Sankt Johann am Tauern... Success!
+Getting data for set number 0: Province of Eastern Samar... Success!
+Getting data for set number 0: Shibukawa... Success!
+Getting data for set number 0: Dimos Livadeia... Success!
+Getting data for set number 0: Combarro... Success!
+Getting data for set number 0: Campillo de Aranda... Success!
+Getting data for set number 0: Bayles... Success!
+Getting data for set number 0: Somosierra... Success!
+Getting data for set number 0: Villa Serrano... Success!
+Getting data for set number 0: Saint-Léger... Success!
+Getting data for set number 0: Malpils... Success!
+Getting data for set number 0: Ypsilanti... Success!
+Getting data for set number 0: Villas Agrícolas Número Dos... Success!
+Getting data for set number 0: Frörup... Success!
+Getting data for set number 0: Villarroya de los Pinares... Success!
+Getting data for set number 1: Jobbagyi... Success!
+Getting data for set number 1: Brindas... Success!
+Getting data for set number 1: Wischroda... Success!
+Getting data for set number 1: Krajan Kedungsari... Success!
+Getting data for set number 1: Fuchsstadt... Success!
+Getting data for set number 1: Dmitriyevy Gory... Success!
+Getting data for set number 1: Diego de Almagro... Success!
+Getting data for set number 1: Bosque Farms... Success!
+Getting data for set number 1: Alnashi... Success!
+Getting data for set number 1: Oberkail... Success!
+Getting data for set number 1: Jastrzebie Zdroj... Success!
+Getting data for set number 1: Zacualtipan... Success!
+Getting data for set number 1: Cameirán... Success!
+Getting data for set number 1: San Michele al Tagliamento... Success!
+Getting data for set number 1: Gava... Success!
+Getting data for set number 1: Dolupo... Success!
+Getting data for set number 1: Ivouani... Success!
+Getting data for set number 1: Mikkeli... Success!
+Getting data for set number 1: Capriglio... Success!
+Getting data for set number 1: Valverde del Majano... Success!
+Getting data for set number 1: Arft... Success!
+Getting data for set number 1: Vezin-le-Coquet... Success!
+Getting data for set number 1: Melarde... Success!
+Getting data for set number 1: Grovedale... Success!
+Getting data for set number 1: Magsalangi... Success!
+Getting data for set number 1: Saint-Georges-de-Didonne... Success!
+Getting data for set number 1: Villanueva... Success!
+Getting data for set number 1: Provincia de El Seíbo... Success!
+Getting data for set number 1: Tabunok... Success!
+Getting data for set number 1: Gültz... Success!
+Getting data for set number 1: Cabildo... Success!
+Getting data for set number 1: Panhandle... Success!
+Getting data for set number 1: Valdetorres... Success!
+Getting data for set number 1: Neuenwalde... Success!
+Getting data for set number 1: Valbert... Success!
+Getting data for set number 1: Shirakamut... Success!
+Getting data for set number 1: Komuna e Dragashit... Success!
+Getting data for set number 1: Kampungsawah Landeuh... Success!
+Getting data for set number 1: Si Rattana... Success!
+Getting data for set number 1: Grande-Synthe... Success!
+Getting data for set number 1: Levelek... Success!
+Getting data for set number 1: Antran... Success!
+Getting data for set number 1: Zambujeira do Mar... Success!
+Getting data for set number 1: Ciudad Anahuac... Success!
+Getting data for set number 1: Sandia Heights... Success!
+Getting data for set number 1: Kilpin... Success!
+Getting data for set number 1: Desa Wetan Ciakar... Success!
+Getting data for set number 1: Mission... Success!
+Getting data for set number 1: Linevo... Success!
+Getting data for set number 1: Steindamm... Success!
+Getting data for set number 1: Landover Hills... Success!
+Getting data for set number 1: Hjerting... Success!
+Getting data for set number 2: Bliederstedt... Success!
+Getting data for set number 2: Meierndorf... Success!
+Getting data for set number 2: Sadirac... Success!
+Getting data for set number 2: Bardo... Success!
+Getting data for set number 2: Seminole... Success!
+Getting data for set number 2: Bezirk Stein... Success!
+Getting data for set number 2: Murmanskaya Oblast’... Success!
+Getting data for set number 2: Karrapur... Success!
+Getting data for set number 2: Brax... Success!
+Getting data for set number 2: Caldwell... Success!
+Getting data for set number 2: Essingen... Success!
+Getting data for set number 2: La Clarita... Success!
+Getting data for set number 2: Forge d'en Haut... Success!
+Getting data for set number 2: Killingsworth Crossroads... Success!
+Getting data for set number 2: Montegrino Valtravaglia... Success!
+Getting data for set number 2: Vose... Success!
+Getting data for set number 2: Ocland... Success!
+Getting data for set number 2: Mount Joy... Success!
+Getting data for set number 2: Catadau... Success!
+Getting data for set number 2: Barchem... Success!
+Getting data for set number 2: Sumurgung... Success!
+Getting data for set number 2: Ederbringhausen... Success!
+Getting data for set number 2: Aleksandrów Łódzki... Success!
+Getting data for set number 2: Cametours... Success!
+Getting data for set number 2: Albosaggia... Success!
+Getting data for set number 2: Ketovo... Success!
+Getting data for set number 2: Adanero... Success!
+Getting data for set number 2: Fontenay-sous-Bois... Success!
+Getting data for set number 2: Hernando... Success!
+Getting data for set number 2: Talegaon Dabhade... Success!
+Getting data for set number 2: Bojaca... Success!
+Getting data for set number 2: Hohenfelde... Success!
+Getting data for set number 2: La Salvetat-Saint-Gilles... Success!
+Getting data for set number 2: Stadecken-Elsheim... Success!
+Getting data for set number 2: Orituco... Success!
+Getting data for set number 2: Fraisses... Success!
+Getting data for set number 2: Marion County... Success!
+Getting data for set number 2: Masiga... Success!
+Getting data for set number 2: Ciampea... Success!
+Getting data for set number 2: Whittlesea... Success!
+Getting data for set number 2: Sivaki... Success!
+Getting data for set number 2: Hohen-Sülzen... Success!
+Getting data for set number 2: Saint-Ouen-en-Belin... Success!
+Getting data for set number 2: Venustiano Carranza... Success!
+Getting data for set number 2: Rietdorf... Success!
+Getting data for set number 2: Zwingen... Success!
+Getting data for set number 2: Kemmern... Success!
+Getting data for set number 2: Longuesaigne... Success!
+Getting data for set number 2: Banaba... Success!
+Getting data for set number 2: Liberty... Success!
+Getting data for set number 2: Liceia... Success!
+Getting data for set number 2: Hongjiang... Success!
+Getting data for set number 3: Appomattox... Success!
+Getting data for set number 3: Tỉnh Vĩnh Phúc... Success!
+Getting data for set number 3: Litzelsdorf... Success!
+Getting data for set number 3: Salvador Alvarado... City not found
+Getting data for set number 3: Ruber... Success!
+Getting data for set number 3: Etzelwang... Success!
+Getting data for set number 3: Montaigu-de-Quercy... Success!
+Getting data for set number 3: Yaguate... Success!
+Getting data for set number 3: Dzuiché... Success!
+Getting data for set number 3: Perponda... Success!
+Getting data for set number 3: Shida Kartli... Success!
+Getting data for set number 3: Tanjungrejo Lor... Success!
+Getting data for set number 3: Oregon... Success!
+Getting data for set number 3: Torrecilla del Monte... Success!
+Getting data for set number 3: Mers el Kebir... Success!
+Getting data for set number 3: Zarumaurcu... Success!
+Getting data for set number 3: Provincia di Napoli... Success!
+Getting data for set number 3: Heusweiler... Success!
+Getting data for set number 3: Mabilang... Success!
+Getting data for set number 3: Lilo... City not found
+Getting data for set number 3: Annaka... Success!
+Getting data for set number 3: Pozzo dAdda... Success!
+Getting data for set number 3: Wattala... Success!
+Getting data for set number 3: Albendiego... Success!
+Getting data for set number 3: Maron... Success!
+Getting data for set number 3: San Carlos de Bariloche... Success!
+Getting data for set number 3: Ryczow... Success!
+Getting data for set number 3: Gonfaron... Success!
+Getting data for set number 3: Doneztebe/Santesteban... Success!
+Getting data for set number 3: Városrétidűlő... Success!
+Getting data for set number 3: Province of Tawi-Tawi... Success!
+Getting data for set number 3: Enna... Success!
+Getting data for set number 3: Vic-en-Bigorre... Success!
+Getting data for set number 3: Rich Hill... Success!
+Getting data for set number 3: Morrisville... Success!
+Getting data for set number 3: Palminópolis... Success!
+Getting data for set number 3: Juanacatlan... Success!
+Getting data for set number 3: Zlutice... Success!
+Getting data for set number 3: Santa Clara... Success!
+Getting data for set number 3: Skikda... Success!
+Getting data for set number 3: Xitang... Success!
+Getting data for set number 3: Lingtang... City not found
+Getting data for set number 3: Ortigosa del Monte... Success!
+Getting data for set number 3: Wolferbutt... Success!
+Getting data for set number 3: Pozo de Guadalajara... Success!
+Getting data for set number 3: Silillos... Success!
+Getting data for set number 3: Lander... Success!
+Getting data for set number 3: Ramsen... Success!
+Getting data for set number 3: Jiaan... Success!
+Getting data for set number 3: Gensac... Success!
+Getting data for set number 3: Plains... Success!
+Getting data for set number 3: Priobye... Success!
+Getting data for set number 4: Castilforte... Success!
+Getting data for set number 4: Raisting... Success!
+Getting data for set number 4: La Concordia... Success!
+Getting data for set number 4: Bischheim... Success!
+Getting data for set number 4: Saint-Laurent-des-Arbres... Success!
+Getting data for set number 4: Vesëlyy... Success!
+Getting data for set number 4: Občina Tolmin... Success!
+Getting data for set number 4: Massenhausen... Success!
+Getting data for set number 4: Kroppen... Success!
+Getting data for set number 4: Cotagaita... Success!
+Getting data for set number 4: Cheongju... Success!
+Getting data for set number 4: Canton Valley... Success!
+Getting data for set number 4: Landscheide... Success!
+Getting data for set number 4: Romainmôtier-Envy... Success!
+Getting data for set number 4: Shumanay Shahri... Success!
+Getting data for set number 4: Haaren... Success!
+Getting data for set number 4: Brindisi... Success!
+Getting data for set number 4: Saint-Jean-d'Heurs... Success!
+Getting data for set number 4: Plumelin... Success!
+Getting data for set number 4: Filomeno Mata... Success!
+Getting data for set number 4: Kerewan... Success!
+Getting data for set number 4: Tha Chana... Success!
+Getting data for set number 4: Angol... Success!
+Getting data for set number 4: Sharbulag... Success!
+Getting data for set number 4: Köddingen... Success!
+Getting data for set number 4: Preston... Success!
+Getting data for set number 4: Manningtree... Success!
+Getting data for set number 4: Fermoselle... Success!
+Getting data for set number 4: Obshtina Madzharovo... Success!
+Getting data for set number 4: Bobenthal... Success!
+Getting data for set number 4: Franqueville-Saint-Pierre... Success!
+Getting data for set number 4: Schriesheim... Success!
+Getting data for set number 4: Teabo... Success!
+Getting data for set number 4: Gondorf... Success!
+Getting data for set number 4: Peicheng... Success!
+Getting data for set number 4: Wassu... Success!
+Getting data for set number 4: Galve... Success!
+Getting data for set number 4: Langtad... Success!
+Getting data for set number 4: Toury... Success!
+Getting data for set number 4: Zhongdacuo... Success!
+Getting data for set number 4: Hopewell... Success!
+Getting data for set number 4: San Isidro... Success!
+Getting data for set number 4: Ust-Katav... Success!
+Getting data for set number 4: Banjar Ponggang... Success!
+Getting data for set number 4: Oryakhovo... Success!
+Getting data for set number 4: Redziny... Success!
+Getting data for set number 4: Vix... Success!
+Getting data for set number 4: Palermo... Success!
+Getting data for set number 4: Hörsching... Success!
+Getting data for set number 4: Takhatpur... Success!
+Getting data for set number 4: Vendenheim... Success!
+Getting data for set number 4: Bald Knob... Success!
+Getting data for set number 5: Capinha... Success!
+Getting data for set number 5: Rettenegg... Success!
+Getting data for set number 5: Sternenfels... Success!
+Getting data for set number 5: Benton... Success!
+Getting data for set number 5: Mogok... Success!
+Getting data for set number 5: Gosnay... Success!
+Getting data for set number 5: Esquerdes... Success!
+Getting data for set number 5: Hardin County... Success!
+Getting data for set number 5: Triuggio... Success!
+Getting data for set number 5: La Peyratte... Success!
+Getting data for set number 5: Los Blancos... Success!
+Getting data for set number 5: DuPage County... Success!
+Getting data for set number 5: Baarleveld... Success!
+Getting data for set number 5: Bugel... Success!
+Getting data for set number 5: Vergel... Success!
+Getting data for set number 5: Poselki... Success!
+Getting data for set number 5: Zoumi... Success!
+Getting data for set number 5: Martinesti... Success!
+Getting data for set number 5: Vissum... Success!
+Getting data for set number 5: Lubuklinggau... Success!
+Getting data for set number 5: Bardiyah... City not found
+Getting data for set number 5: Saint-Martin-Lacaussade... Success!
+Getting data for set number 5: Canmaya Diot... Success!
+Getting data for set number 5: New Pandanon... Success!
+Getting data for set number 5: Polsingen... Success!
+Getting data for set number 5: Vouilly... Success!
+Getting data for set number 5: Altay... Success!
+Getting data for set number 5: San Carlos... Success!
+Getting data for set number 5: El Olivar... Success!
+Getting data for set number 5: Lisbon Falls... Success!
+Getting data for set number 5: Moana... Success!
+Getting data for set number 5: Fantanele... Success!
+Getting data for set number 5: Bammental... Success!
+Getting data for set number 5: Altenriet... Success!
+Getting data for set number 5: Straßlach-Dingharting... City not found
+Getting data for set number 5: Vale da Pinta... Success!
+Getting data for set number 5: Edderton... Success!
+Getting data for set number 5: Valmacca... Success!
+Getting data for set number 5: Hualingang... Success!
+Getting data for set number 5: Cayenne... Success!
+Getting data for set number 5: Bellosguardo... Success!
+Getting data for set number 5: Zonguldak... Success!
+Getting data for set number 5: Fontioso... Success!
+Getting data for set number 5: Osh... Success!
+Getting data for set number 5: Reading... Success!
+Getting data for set number 5: Ponce Inlet... Success!
+Getting data for set number 5: Rianxo... Success!
+Getting data for set number 5: Cherven... Success!
+Getting data for set number 5: Formentin... Success!
+Getting data for set number 5: Biga... Success!
+Getting data for set number 5: Baixo Guandu... Success!
+Getting data for set number 5: San Mames de Campos... Success!
+Getting data for set number 6: Wermertshausen... Success!
+Getting data for set number 6: Mons... Success!
+Getting data for set number 6: Benasau... Success!
+Getting data for set number 6: Gislaveds Kommun... Success!
+Getting data for set number 6: San Manuel... Success!
+Getting data for set number 6: Makow... Success!
+Getting data for set number 6: Weden... Success!
+Getting data for set number 6: Hornstein... Success!
+Getting data for set number 6: Kamo... Success!
+Getting data for set number 6: Allen County... Success!
+Getting data for set number 6: Bairro Vista Alegre... Success!
+Getting data for set number 6: Hujirt... Success!
+Getting data for set number 6: Tarutyne... Success!
+Getting data for set number 6: Peabiru... Success!
+Getting data for set number 6: Abbadia San Salvatore... Success!
+Getting data for set number 6: Savukoski... Success!
+Getting data for set number 6: Le Mesnil-le-Roi... Success!
+Getting data for set number 6: Settimo Milanese... Success!
+Getting data for set number 6: Sazgın... Success!
+Getting data for set number 6: Kaizuka... Success!
+Getting data for set number 6: Ocean Springs... Success!
+Getting data for set number 6: Day County... Success!
+Getting data for set number 6: Villamarzana... Success!
+Getting data for set number 6: Mossbank... Success!
+Getting data for set number 6: Ingre... Success!
+Getting data for set number 6: Union City... Success!
+Getting data for set number 6: Pontvallain... Success!
+Getting data for set number 6: Shumen... Success!
+Getting data for set number 6: Département du Tarn-et-Garonne... Success!
+Getting data for set number 6: Krestovo... Success!
+Getting data for set number 6: Toral de los Vados... Success!
+Getting data for set number 6: Malbergweich... Success!
+Getting data for set number 6: Ebene... Success!
+Getting data for set number 6: Laskovo... Success!
+Getting data for set number 6: Xingtian... Success!
+Getting data for set number 6: Darchula... Success!
+Getting data for set number 6: Timotes... Success!
+Getting data for set number 6: Dolni Bousov... Success!
+Getting data for set number 6: Baie-Mahault... Success!
+Getting data for set number 6: Göllersdorf... Success!
+Getting data for set number 6: Yanfeng... Success!
+Getting data for set number 6: Achen... Success!
+Getting data for set number 6: Hammerstedt... Success!
+Getting data for set number 6: Corby... Success!
+Getting data for set number 6: Surif... Success!
+Getting data for set number 6: Port Moody... Success!
+Getting data for set number 6: Aratiba... Success!
+Getting data for set number 6: Elkano... Success!
+Getting data for set number 6: Lendelede... Success!
+Getting data for set number 6: Porqueira... Success!
+Getting data for set number 6: Sabana del Puerto... Success!
+Getting data for set number 6: Achau... Success!
+Getting data for set number 7: Chetvërtyy Posëlok... Success!
+Getting data for set number 7: Sindangasih... Success!
+Getting data for set number 7: Paulhan... Success!
+Getting data for set number 7: Ellingstedt... Success!
+Getting data for set number 7: Chuanpu... Success!
+Getting data for set number 7: Arahuetes... Success!
+Getting data for set number 7: Mtskheta-Mtianeti... Success!
+Getting data for set number 7: San Francisco... Success!
+Getting data for set number 7: Santo Stefano Quisquina... Success!
+Getting data for set number 7: Etterzhausen... Success!
+Getting data for set number 7: Alto Barinas... Success!
+Getting data for set number 7: Glasnevin... Success!
+Getting data for set number 7: Tunggangri... Success!
+Getting data for set number 7: Barayong... Success!
+Getting data for set number 7: Kalghatgi... Success!
+Getting data for set number 7: Ersigen... Success!
+Getting data for set number 7: Theresa... Success!
+Getting data for set number 7: Ellenborough... Success!
+Getting data for set number 7: Onod... Success!
+Getting data for set number 7: Nigüella... Success!
+Getting data for set number 7: Hujra... Success!
+Getting data for set number 7: Kalandagan... Success!
+Getting data for set number 7: Leibstadt... Success!
+Getting data for set number 7: Goodings Grove... Success!
+Getting data for set number 7: Sambidoplang... Success!
+Getting data for set number 7: Dalmine... Success!
+Getting data for set number 7: Manhuacu... Success!
+Getting data for set number 7: Vega de Santa Maria... Success!
+Getting data for set number 7: Conde-sur-Huisne... Success!
+Getting data for set number 7: Hof bei Straden... Success!
+Getting data for set number 7: Erlenbach... Success!
+Getting data for set number 7: Le Grand-Quevilly... Success!
+Getting data for set number 7: Saint-Denis-Combarnazat... Success!
+Getting data for set number 7: West Wendover... Success!
+Getting data for set number 7: Stitar... Success!
+Getting data for set number 7: Mettur... Success!
+Getting data for set number 7: Corzes... Success!
+Getting data for set number 7: Francica... Success!
+Getting data for set number 7: Chalignat... Success!
+Getting data for set number 7: Subottsi... Success!
+Getting data for set number 7: Flekkefjord... Success!
+Getting data for set number 7: Juvigny-sous-Andaine... Success!
+Getting data for set number 7: Ariguani... Success!
+Getting data for set number 7: Montoggio... Success!
+Getting data for set number 7: Phumĭ Phlov... Success!
+Getting data for set number 7: Ballwitz... Success!
+Getting data for set number 7: Cabaret... Success!
+Getting data for set number 7: Kavrakirovo... Success!
+Getting data for set number 7: Rokitno Szlacheckie... Success!
+Getting data for set number 7: Venola... Success!
+Getting data for set number 7: Torrubia del Campo... Success!
+Getting data for set number 7: Inhambupe... Success!
+Getting data for set number 8: Puebla de la Calzada... Success!
+Getting data for set number 8: Los Reyes... Success!
+Getting data for set number 8: Pigcawayan... Success!
+Getting data for set number 8: Esternay... Success!
+Getting data for set number 8: Huttenrode... Success!
+Getting data for set number 8: Sévignacq-Meyracq... Success!
+Getting data for set number 8: Kartasura... Success!
+Getting data for set number 8: Chaen-mal... Success!
+Getting data for set number 8: Vimeiro... Success!
+Getting data for set number 8: Yefimovo... Success!
+Getting data for set number 8: Tirebolu... Success!
+Getting data for set number 8: Riacho dos Machados... Success!
+Getting data for set number 8: Drimmavohaun... Success!
+Getting data for set number 8: Thirsk... Success!
+Getting data for set number 8: Hickory Grove... Success!
+Getting data for set number 8: Karsin... Success!
+Getting data for set number 8: Mèze... Success!
+Getting data for set number 8: Novospasskoye... Success!
+Getting data for set number 8: Fortaleny... Success!
+Getting data for set number 8: Seethal... Success!
+Getting data for set number 8: Padasono... Success!
+Getting data for set number 8: Vernon River... Success!
+Getting data for set number 8: Riggs Creek... Success!
+Getting data for set number 8: Kirtland... Success!
+Getting data for set number 8: Carbajal de la Legua... Success!
+Getting data for set number 8: Hojo... Success!
+Getting data for set number 8: Platanal... Success!
+Getting data for set number 8: Sydney... Success!
+Getting data for set number 8: Otoka... Success!
+Getting data for set number 8: La Torre de Esteban Hambran... Success!
+Getting data for set number 8: Jiajuedibu... Success!
+Getting data for set number 8: Hueypoxtla... Success!
+Getting data for set number 8: Muravlenko... Success!
+Getting data for set number 8: Departamento de San Cosme... Success!
+Getting data for set number 8: Lenzen... Success!
+Getting data for set number 8: Coihueco... Success!
+Getting data for set number 8: Puentes de Garcia Rodriguez... Success!
+Getting data for set number 8: Bauko... Success!
+Getting data for set number 8: Sah... Success!
+Getting data for set number 8: La Bouza... Success!
+Getting data for set number 8: North Bergen... Success!
+Getting data for set number 8: Reina... Success!
+Getting data for set number 8: Veigy-Foncenex... Success!
+Getting data for set number 8: Mount Forest... Success!
+Getting data for set number 8: Al Lubban ash Sharqiyah... Success!
+Getting data for set number 8: Angasolka... Success!
+Getting data for set number 8: La Celle-Saint-Avant... Success!
+Getting data for set number 8: Port-Daniel... Success!
+Getting data for set number 8: Dobrodzien... Success!
+Getting data for set number 8: Perote... Success!
+Getting data for set number 8: San Sebastian Tutla... Success!
+Getting data for set number 8: Kall... Success!
+Getting data for set number 9: Bacnar... Success!
+Getting data for set number 9: Semd... Success!
+Getting data for set number 9: Merefa... Success!
+Getting data for set number 9: Jász-Nagykun-Szolnok megye... Success!
+Getting data for set number 9: Amboy... Success!
+Getting data for set number 9: Etzenricht... Success!
+Getting data for set number 9: Zhendu... Success!
+Getting data for set number 9: Sadeng... Success!
+Getting data for set number 9: Tapan... Success!
+Getting data for set number 9: Smoky Lake... Success!
+Getting data for set number 9: Rowosari... Success!
+Getting data for set number 9: Ostwald... Success!
+Getting data for set number 9: Odoyev... Success!
+Getting data for set number 9: Ortenberg... Success!
+Getting data for set number 9: Spedden... Success!
+Getting data for set number 9: Saint-Antoine-des-Laurentides... Success!
+Getting data for set number 9: Pandaria... Success!
+Getting data for set number 9: Afak... Success!
+Getting data for set number 9: Ostfildern... Success!
+Getting data for set number 9: Tourém... Success!
+Getting data for set number 9: Ballarat North... Success!
+Getting data for set number 9: Obshtina Dobrich-Selska... Success!
+Getting data for set number 9: Berscheid... Success!
+Getting data for set number 9: Gousse... Success!
+Getting data for set number 9: Cervillego de la Cruz... Success!
+Getting data for set number 9: Ringleben... Success!
+Getting data for set number 9: Gross Wittensee... Success!
+Getting data for set number 9: Pruszków... Success!
+Getting data for set number 9: Szeleveny... Success!
+Getting data for set number 9: Cordovin... Success!
+Getting data for set number 9: Butungan... Success!
+Getting data for set number 9: Glemmen... Success!
+Getting data for set number 9: Tassoumat... Success!
+Getting data for set number 9: Sasaima... Success!
+Getting data for set number 9: Cencenighe Agordino... Success!
+Getting data for set number 9: La Rochefoucauld... Success!
+Getting data for set number 9: Suurejõe... Success!
+Getting data for set number 9: Heber... Success!
+Getting data for set number 9: Amagunze... Success!
+Getting data for set number 9: Vila Molica... Success!
+Getting data for set number 9: Vorchdorf... Success!
+Getting data for set number 9: Jasper... Success!
+Getting data for set number 9: Peguerinos... Success!
+Getting data for set number 9: San Jose... Success!
+Getting data for set number 9: Cervo... Success!
+Getting data for set number 9: Eggerscheidt... Success!
+Getting data for set number 9: Reichenbach/Vogtland... Success!
+Getting data for set number 9: Bonita Springs... Success!
+Getting data for set number 9: Castiglione Falletto... Success!
+Getting data for set number 9: Großlangenfeld... Success!
+Getting data for set number 9: Orsanco... Success!
+Getting data for set number 9: Frovi... Success!
+Getting data for set number 10: Zhenzhou... City not found
+Getting data for set number 10: Laguitas... Success!
+Getting data for set number 10: Gibsonia... Success!
+Getting data for set number 10: Nambucca Heads... Success!
+Getting data for set number 10: Doya... Success!
+Getting data for set number 10: Tablado... Success!
+Getting data for set number 10: Rio Cuarto... Success!
+Getting data for set number 10: Dolní Mokropsy... Success!
+Getting data for set number 10: Corona... Success!
+Getting data for set number 10: Carbunesti... Success!
+Getting data for set number 10: El Gas... Success!
+Getting data for set number 10: Wandsworth... Success!
+Getting data for set number 10: Sagbayan... Success!
+Getting data for set number 10: Goldendale... Success!
+Getting data for set number 10: Dapp... Success!
+Getting data for set number 10: Tarascon... Success!
+Getting data for set number 10: Trange... Success!
+Getting data for set number 10: Lapeer County... Success!
+Getting data for set number 10: Lespourcy... Success!
+Getting data for set number 10: Hammerstein... Success!
+Getting data for set number 10: Suko Dua... Success!
+Getting data for set number 10: Gallicano... Success!
+Getting data for set number 10: Maria da Fé... Success!
+Getting data for set number 10: Taberno... Success!
+Getting data for set number 10: Matranovak... Success!
+Getting data for set number 10: Cabezon de Valderaduey... Success!
+Getting data for set number 10: Hoyo de Manzanares... Success!
+Getting data for set number 10: Bacesti... Success!
+Getting data for set number 10: Vahdat... Success!
+Getting data for set number 10: Cunter... Success!
+Getting data for set number 10: Nong Kung Si... Success!
+Getting data for set number 10: Guggenhausen... Success!
+Getting data for set number 10: Kollow... Success!
+Getting data for set number 10: Buzancais... Success!
+Getting data for set number 10: Affoltern / Hasenbueel... Success!
+Getting data for set number 10: Schönewörde... Success!
+Getting data for set number 10: Berehove... Success!
+Getting data for set number 10: Scarmagno... Success!
+Getting data for set number 10: Haihui... Success!
+Getting data for set number 10: Apensen... Success!
+Getting data for set number 10: Porto Velho... Success!
+Getting data for set number 10: Klingendorf... Success!
+Getting data for set number 10: Caatiba... Success!
+Getting data for set number 10: Wurzen... Success!
+Getting data for set number 10: Hinnerup... Success!
+Getting data for set number 10: Augsfeld... Success!
+Getting data for set number 10: Lakhnadon... Success!
+Getting data for set number 10: Montenero Val Cocchiara... Success!
+Getting data for set number 10: Makarau... Success!
+Getting data for set number 10: Uhart-Cize... Success!
+Getting data for set number 10: Lagunilla del Jubera... Success!
+Getting data for set number 10: Potrerillos... Success!
+Getting data for set number 11: Spassk-Dalniy... Success!
+Getting data for set number 11: Elm Grove... Success!
+Getting data for set number 11: Davison County... Success!
+Getting data for set number 11: Waha... Success!
+Getting data for set number 11: Bolesławiec... Success!
+Getting data for set number 11: Bürglen... Success!
+Getting data for set number 11: Horcajo de Santiago... Success!
+Getting data for set number 11: Mölkau... Success!
+Getting data for set number 11: Tinchebray... Success!
+Getting data for set number 11: Shani... Success!
+Getting data for set number 11: Koyasu... Success!
+Getting data for set number 11: Wentworthville... Success!
+Getting data for set number 11: West Summit... Success!
+Getting data for set number 11: Meudt... Success!
+Getting data for set number 11: Antigua... Success!
+Getting data for set number 11: Carbury... Success!
+Getting data for set number 11: Berryville... Success!
+Getting data for set number 11: Carbonera... Success!
+Getting data for set number 11: Beechmont... Success!
+Getting data for set number 11: Waldzell... Success!
+Getting data for set number 11: Weißenohe... Success!
+Getting data for set number 11: Kolej... Success!
+Getting data for set number 11: Villa Bisono... Success!
+Getting data for set number 11: Farcasesti... Success!
+Getting data for set number 11: Olofstroem... Success!
+Getting data for set number 11: Arica... Success!
+Getting data for set number 11: Bramstedtlund... Success!
+Getting data for set number 11: Zabia Wola... Success!
+Getting data for set number 11: Darliston... Success!
+Getting data for set number 11: Sturgis... Success!
+Getting data for set number 11: Altdorf... Success!
+Getting data for set number 11: Torrejon el Rubio... Success!
+Getting data for set number 11: Tolomango... Success!
+Getting data for set number 11: Adersleben... Success!
+Getting data for set number 11: Castellnou de Seana... Success!
+Getting data for set number 11: Old Orchard Mobile Home Park... Success!
+Getting data for set number 11: Carinaro... Success!
+Getting data for set number 11: Barra... Success!
+Getting data for set number 11: Pryor... Success!
+Getting data for set number 11: Balaruc-le-Vieux... Success!
+Getting data for set number 11: Eboli... Success!
+Getting data for set number 11: Pedregal... Success!
+Getting data for set number 11: Creedmoor... Success!
+Getting data for set number 11: Diessenhofen... Success!
+Getting data for set number 11: Tapuio... Success!
+Getting data for set number 11: Nārāyanpur... Success!
+Getting data for set number 11: Romanovo... Success!
+Getting data for set number 11: Ayia Galini... Success!
+Getting data for set number 11: Tlemcen... Success!
+Getting data for set number 11: Faenza... Success!
+Getting data for set number 11: Kubangeceng... Success!
+Getting data for set number 11: Vaulion... Success!
