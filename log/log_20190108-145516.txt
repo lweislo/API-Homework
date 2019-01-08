@@ -1,0 +1,594 @@
+Getting data for set number 0: rikitea... Success!
+Getting data for set number 0: mataura... Success!
+Getting data for set number 0: bulalacao... Success!
+Getting data for set number 0: thompson... Success!
+Getting data for set number 0: polyarnyye zori... Success!
+Getting data for set number 0: touros... Success!
+Getting data for set number 0: tezu... Success!
+Getting data for set number 0: yellowknife... Success!
+Getting data for set number 0: ancud... Success!
+Getting data for set number 0: albany... Success!
+Getting data for set number 0: puerto ayora... Success!
+Getting data for set number 0: mar del plata... Success!
+Getting data for set number 0: karratha... Success!
+Getting data for set number 0: bredasdorp... Success!
+Getting data for set number 0: pevek... Success!
+Getting data for set number 0: srednekolymsk... Success!
+Getting data for set number 0: nanortalik... Success!
+Getting data for set number 0: kesinga... Success!
+Getting data for set number 0: thano bula khan... City not found
+Getting data for set number 0: usatove... Success!
+Getting data for set number 0: comillas... Success!
+Getting data for set number 0: taolanaro... City not found
+Getting data for set number 0: kundiawa... Success!
+Getting data for set number 0: punta arenas... Success!
+Getting data for set number 0: maumere... Success!
+Getting data for set number 0: montes altos... Success!
+Getting data for set number 0: belozerskoye... Success!
+Getting data for set number 0: omoa... Success!
+Getting data for set number 0: bluff... Success!
+Getting data for set number 0: vaini... Success!
+Getting data for set number 0: sunrise manor... Success!
+Getting data for set number 0: new norfolk... Success!
+Getting data for set number 0: georgetown... Success!
+Getting data for set number 0: dandong... Success!
+Getting data for set number 0: ushuaia... Success!
+Getting data for set number 0: mahebourg... Success!
+Getting data for set number 0: atuona... Success!
+Getting data for set number 0: sidney... Success!
+Getting data for set number 0: leningradskiy... Success!
+Getting data for set number 0: lorengau... Success!
+Getting data for set number 0: sosnovo-ozerskoye... Success!
+Getting data for set number 0: tuktoyaktuk... Success!
+Getting data for set number 0: cape town... Success!
+Getting data for set number 0: louisbourg... City not found
+Getting data for set number 0: zhigansk... Success!
+Getting data for set number 0: upernavik... Success!
+Getting data for set number 0: asyut... Success!
+Getting data for set number 0: buraydah... Success!
+Getting data for set number 0: ribeira grande... Success!
+Getting data for set number 0: alofi... Success!
+Getting data for set number 1: gajraula... Success!
+Getting data for set number 1: dikson... Success!
+Getting data for set number 1: karachi... Success!
+Getting data for set number 1: nantucket... Success!
+Getting data for set number 1: saint-philippe... Success!
+Getting data for set number 1: miyang... Success!
+Getting data for set number 1: pangnirtung... Success!
+Getting data for set number 1: olafsvik... City not found
+Getting data for set number 1: husavik... Success!
+Getting data for set number 1: faya... Success!
+Getting data for set number 1: beloha... Success!
+Getting data for set number 1: east liverpool... Success!
+Getting data for set number 1: saint george... Success!
+Getting data for set number 1: bethel... Success!
+Getting data for set number 1: champerico... Success!
+Getting data for set number 1: hermanus... Success!
+Getting data for set number 1: barrow... Success!
+Getting data for set number 1: vaitupu... City not found
+Getting data for set number 1: bonthe... Success!
+Getting data for set number 1: narsaq... Success!
+Getting data for set number 1: lebu... Success!
+Getting data for set number 1: busselton... Success!
+Getting data for set number 1: port elizabeth... Success!
+Getting data for set number 1: rio gallegos... Success!
+Getting data for set number 1: airai... Success!
+Getting data for set number 1: tuatapere... Success!
+Getting data for set number 1: aligudarz... Success!
+Getting data for set number 1: nikolskoye... Success!
+Getting data for set number 1: sao joao da barra... Success!
+Getting data for set number 1: attawapiskat... City not found
+Getting data for set number 1: tommot... Success!
+Getting data for set number 1: chokurdakh... Success!
+Getting data for set number 1: ngorongoro... Success!
+Getting data for set number 1: andevoranto... City not found
+Getting data for set number 1: lavrentiya... Success!
+Getting data for set number 1: axim... Success!
+Getting data for set number 1: mercedes... Success!
+Getting data for set number 1: jamestown... Success!
+Getting data for set number 1: poum... Success!
+Getting data for set number 1: krasnoselkup... City not found
+Getting data for set number 1: vanimo... Success!
+Getting data for set number 1: belushya guba... City not found
+Getting data for set number 1: wukari... Success!
+Getting data for set number 1: prainha... Success!
+Getting data for set number 1: leeton... Success!
+Getting data for set number 1: hobart... Success!
+Getting data for set number 1: saskylakh... Success!
+Getting data for set number 1: wamba... Success!
+Getting data for set number 1: butaritari... Success!
+Getting data for set number 1: khatanga... Success!
+Getting data for set number 2: esperance... Success!
+Getting data for set number 2: merano... Success!
+Getting data for set number 2: onega... Success!
+Getting data for set number 2: cobh... Success!
+Getting data for set number 2: muros... Success!
+Getting data for set number 2: kavieng... Success!
+Getting data for set number 2: hami... Success!
+Getting data for set number 2: carbonia... Success!
+Getting data for set number 2: san policarpo... Success!
+Getting data for set number 2: saleaula... City not found
+Getting data for set number 2: wahran... City not found
+Getting data for set number 2: east london... Success!
+Getting data for set number 2: tasiilaq... Success!
+Getting data for set number 2: torbay... Success!
+Getting data for set number 2: temaraia... City not found
+Getting data for set number 2: faanui... Success!
+Getting data for set number 2: iqaluit... Success!
+Getting data for set number 2: scottsburgh... City not found
+Getting data for set number 2: portland... Success!
+Getting data for set number 2: shenjiamen... Success!
+Getting data for set number 2: provideniya... Success!
+Getting data for set number 2: roald... Success!
+Getting data for set number 2: ostrovnoy... Success!
+Getting data for set number 2: aklavik... Success!
+Getting data for set number 2: sentyabrskiy... City not found
+Getting data for set number 2: monte siao... Success!
+Getting data for set number 2: hithadhoo... Success!
+Getting data for set number 2: arraial do cabo... Success!
+Getting data for set number 2: hilo... Success!
+Getting data for set number 2: saldanha... Success!
+Getting data for set number 2: amderma... City not found
+Getting data for set number 2: grand river south east... City not found
+Getting data for set number 2: nome... Success!
+Getting data for set number 2: petropavlovsk-kamchatskiy... Success!
+Getting data for set number 2: vila franca do campo... Success!
+Getting data for set number 2: khash... Success!
+Getting data for set number 2: akyab... City not found
+Getting data for set number 2: tiznit... Success!
+Getting data for set number 2: barentsburg... City not found
+Getting data for set number 2: sechura... Success!
+Getting data for set number 2: nizhneyansk... City not found
+Getting data for set number 2: kultuk... Success!
+Getting data for set number 2: castro... Success!
+Getting data for set number 2: ilulissat... Success!
+Getting data for set number 2: coquimbo... Success!
+Getting data for set number 2: rocha... Success!
+Getting data for set number 2: oksfjord... Success!
+Getting data for set number 2: constitucion... Success!
+Getting data for set number 2: tiksi... Success!
+Getting data for set number 2: kodiak... Success!
+Getting data for set number 3: fare... Success!
+Getting data for set number 3: vilyuysk... Success!
+Getting data for set number 3: mehamn... Success!
+Getting data for set number 3: zhezkazgan... Success!
+Getting data for set number 3: yirol... City not found
+Getting data for set number 3: deputatskiy... Success!
+Getting data for set number 3: longyearbyen... Success!
+Getting data for set number 3: avarua... Success!
+Getting data for set number 3: ardabil... Success!
+Getting data for set number 3: kabare... Success!
+Getting data for set number 3: susaki... Success!
+Getting data for set number 3: kalmunai... Success!
+Getting data for set number 3: matay... Success!
+Getting data for set number 3: ponta delgada... Success!
+Getting data for set number 3: sao filipe... Success!
+Getting data for set number 3: qaanaaq... Success!
+Getting data for set number 3: anloga... Success!
+Getting data for set number 3: koutsouras... Success!
+Getting data for set number 3: ahipara... Success!
+Getting data for set number 3: hihifo... City not found
+Getting data for set number 3: codrington... Success!
+Getting data for set number 3: talnakh... Success!
+Getting data for set number 3: cayenne... Success!
+Getting data for set number 3: avera... Success!
+Getting data for set number 3: marsh harbour... Success!
+Getting data for set number 3: illoqqortoormiut... City not found
+Getting data for set number 3: monclova... Success!
+Getting data for set number 3: hambantota... Success!
+Getting data for set number 3: saharsa... Success!
+Getting data for set number 3: westport... Success!
+Getting data for set number 3: vila do maio... Success!
+Getting data for set number 3: vostok... Success!
+Getting data for set number 3: marsa matruh... Success!
+Getting data for set number 3: breves... Success!
+Getting data for set number 3: port alfred... Success!
+Getting data for set number 3: caravelas... Success!
+Getting data for set number 3: mys shmidta... City not found
+Getting data for set number 3: beatrice... Success!
+Getting data for set number 3: ara... Success!
+Getting data for set number 3: pombia... Success!
+Getting data for set number 3: dong hoi... Success!
+Getting data for set number 3: dakar... Success!
+Getting data for set number 3: tabasco... Success!
+Getting data for set number 3: lucapa... Success!
+Getting data for set number 3: ola... Success!
+Getting data for set number 3: victor harbor... Success!
+Getting data for set number 3: mwinilunga... Success!
+Getting data for set number 3: cuiaba... Success!
+Getting data for set number 3: melito di porto salvo... Success!
+Getting data for set number 3: purpe... Success!
+Getting data for set number 4: tura... Success!
+Getting data for set number 4: lagoa... Success!
+Getting data for set number 4: kapaa... Success!
+Getting data for set number 4: vao... Success!
+Getting data for set number 4: sorong... Success!
+Getting data for set number 4: bur gabo... City not found
+Getting data for set number 4: abu samrah... Success!
+Getting data for set number 4: borogontsy... Success!
+Getting data for set number 4: menongue... Success!
+Getting data for set number 4: damghan... Success!
+Getting data for set number 4: damavand... Success!
+Getting data for set number 4: bengkulu... City not found
+Getting data for set number 4: grand gaube... Success!
+Getting data for set number 4: williamsburg... Success!
+Getting data for set number 4: resistencia... Success!
+Getting data for set number 4: san... Success!
+Getting data for set number 4: taltal... Success!
+Getting data for set number 4: chalus... Success!
+Getting data for set number 4: clinton... Success!
+Getting data for set number 4: itarema... Success!
+Getting data for set number 4: ulladulla... Success!
+Getting data for set number 4: carnarvon... Success!
+Getting data for set number 4: mtimbira... Success!
+Getting data for set number 4: acapulco... Success!
+Getting data for set number 4: tena... Success!
+Getting data for set number 4: jumla... Success!
+Getting data for set number 4: baraya... Success!
+Getting data for set number 4: navolato... Success!
+Getting data for set number 4: la rioja... Success!
+Getting data for set number 4: tomatlan... Success!
+Getting data for set number 4: broome... Success!
+Getting data for set number 4: toguchin... Success!
+Getting data for set number 4: trapani... Success!
+Getting data for set number 4: yaan... Success!
+Getting data for set number 4: bairiki... City not found
+Getting data for set number 4: sitka... Success!
+Getting data for set number 4: the valley... Success!
+Getting data for set number 4: leh... Success!
+Getting data for set number 4: juwana... Success!
+Getting data for set number 4: meulaboh... Success!
+Getting data for set number 4: quang ngai... Success!
+Getting data for set number 4: izumo... Success!
+Getting data for set number 4: broken hill... Success!
+Getting data for set number 4: san francisco... Success!
+Getting data for set number 4: dosso... Success!
+Getting data for set number 4: brae... Success!
+Getting data for set number 4: anadyr... Success!
+Getting data for set number 4: klaksvik... Success!
+Getting data for set number 4: norman wells... Success!
+Getting data for set number 4: ponta do sol... Success!
+Getting data for set number 5: hofn... Success!
+Getting data for set number 5: padang... Success!
+Getting data for set number 5: krasnoarmeysk... Success!
+Getting data for set number 5: chernyshevskiy... Success!
+Getting data for set number 5: dzhusaly... City not found
+Getting data for set number 5: grootfontein... Success!
+Getting data for set number 5: kisangani... Success!
+Getting data for set number 5: kangaatsiaq... Success!
+Getting data for set number 5: el bagre... Success!
+Getting data for set number 5: marcona... City not found
+Getting data for set number 5: flinders... Success!
+Getting data for set number 5: saravan... Success!
+Getting data for set number 5: amasia... Success!
+Getting data for set number 5: lolua... City not found
+Getting data for set number 5: cairns... Success!
+Getting data for set number 5: sorland... Success!
+Getting data for set number 5: lakes entrance... Success!
+Getting data for set number 5: oranjemund... Success!
+Getting data for set number 5: souillac... Success!
+Getting data for set number 5: severo-kurilsk... Success!
+Getting data for set number 5: los llanos de aridane... Success!
+Getting data for set number 5: kolondieba... Success!
+Getting data for set number 5: kudahuvadhoo... Success!
+Getting data for set number 5: san cristobal... Success!
+Getting data for set number 5: clyde river... Success!
+Getting data for set number 5: othaya... Success!
+Getting data for set number 5: rawannawi... City not found
+Getting data for set number 5: baijiantan... Success!
+Getting data for set number 5: jalu... Success!
+Getting data for set number 5: puerto colombia... Success!
+Getting data for set number 5: omboue... Success!
+Getting data for set number 5: hasaki... Success!
+Getting data for set number 5: umzimvubu... City not found
+Getting data for set number 5: port hardy... Success!
+Getting data for set number 5: chapais... Success!
+Getting data for set number 5: eskasem... City not found
+Getting data for set number 5: matara... Success!
+Getting data for set number 5: moron... Success!
+Getting data for set number 5: camacha... Success!
+Getting data for set number 5: sobolevo... Success!
+Getting data for set number 5: wenling... Success!
+Getting data for set number 5: tessalit... Success!
+Getting data for set number 5: warqla... City not found
+Getting data for set number 5: weert... Success!
+Getting data for set number 5: batagay-alyta... Success!
+Getting data for set number 5: magistralnyy... Success!
+Getting data for set number 5: bilma... Success!
+Getting data for set number 5: port-gentil... Success!
+Getting data for set number 5: krasnik... Success!
+Getting data for set number 5: safwah... City not found
+Getting data for set number 6: victoria... Success!
+Getting data for set number 6: pandan... Success!
+Getting data for set number 6: monmouth... Success!
+Getting data for set number 6: north las vegas... Success!
+Getting data for set number 6: ekhabi... Success!
+Getting data for set number 6: hamilton... Success!
+Getting data for set number 6: aranda de duero... Success!
+Getting data for set number 6: worcester... Success!
+Getting data for set number 6: gurskoye... City not found
+Getting data for set number 6: mirskoy... Success!
+Getting data for set number 6: bambous virieux... Success!
+Getting data for set number 6: sohag... Success!
+Getting data for set number 6: turukhansk... Success!
+Getting data for set number 6: south lake tahoe... Success!
+Getting data for set number 6: aflu... City not found
+Getting data for set number 6: vaitape... Success!
+Getting data for set number 6: miles city... Success!
+Getting data for set number 6: asau... City not found
+Getting data for set number 6: kaitangata... Success!
+Getting data for set number 6: port blair... Success!
+Getting data for set number 6: beringovskiy... Success!
+Getting data for set number 6: shamkhal... Success!
+Getting data for set number 6: walvis bay... Success!
+Getting data for set number 6: neryungri... Success!
+Getting data for set number 6: cabo san lucas... Success!
+Getting data for set number 6: channel-port aux basques... Success!
+Getting data for set number 6: jhalida... Success!
+Getting data for set number 6: morehead... Success!
+Getting data for set number 6: mpika... Success!
+Getting data for set number 6: yeppoon... Success!
+Getting data for set number 6: araguaina... Success!
+Getting data for set number 6: billingham... Success!
+Getting data for set number 6: melville... Success!
+Getting data for set number 6: egvekinot... Success!
+Getting data for set number 6: kampot... Success!
+Getting data for set number 6: miyako... Success!
+Getting data for set number 6: kieta... Success!
+Getting data for set number 6: kebonarum... City not found
+Getting data for set number 6: lompoc... Success!
+Getting data for set number 6: borba... Success!
+Getting data for set number 6: nishihara... Success!
+Getting data for set number 6: impfondo... Success!
+Getting data for set number 6: pontianak... Success!
+Getting data for set number 6: isagarh... Success!
+Getting data for set number 6: kushima... Success!
+Getting data for set number 6: cherskiy... Success!
+Getting data for set number 6: perelyub... Success!
+Getting data for set number 6: port macquarie... Success!
+Getting data for set number 6: casino... Success!
+Getting data for set number 6: tevaitoa... Success!
+Getting data for set number 7: uvat... Success!
+Getting data for set number 7: karkaralinsk... City not found
+Getting data for set number 7: cidreira... Success!
+Getting data for set number 7: elat... Success!
+Getting data for set number 7: cabedelo... Success!
+Getting data for set number 7: kahului... Success!
+Getting data for set number 7: halalo... City not found
+Getting data for set number 7: tari... Success!
+Getting data for set number 7: healdsburg... Success!
+Getting data for set number 7: barinas... Success!
+Getting data for set number 7: morgan city... Success!
+Getting data for set number 7: chinchani... Success!
+Getting data for set number 7: sola... Success!
+Getting data for set number 7: ixtapa... Success!
+Getting data for set number 7: nacogdoches... Success!
+Getting data for set number 7: surgut... Success!
+Getting data for set number 7: saint-pierre... Success!
+Getting data for set number 7: taoudenni... Success!
+Getting data for set number 7: nuevo progreso... Success!
+Getting data for set number 7: trelew... Success!
+Getting data for set number 7: plettenberg bay... Success!
+Getting data for set number 7: mucurapo... Success!
+Getting data for set number 7: acarau... City not found
+Getting data for set number 7: chuy... Success!
+Getting data for set number 7: wasilla... Success!
+Getting data for set number 7: najran... Success!
+Getting data for set number 7: gat... Success!
+Getting data for set number 7: kismayo... City not found
+Getting data for set number 7: kawalu... Success!
+Getting data for set number 7: lamu... Success!
+Getting data for set number 7: banjar... Success!
+Getting data for set number 7: mangrol... Success!
+Getting data for set number 7: roros... Success!
+Getting data for set number 7: port lincoln... Success!
+Getting data for set number 7: pangkalanbuun... Success!
+Getting data for set number 7: inhambane... Success!
+Getting data for set number 7: bubaque... Success!
+Getting data for set number 7: baltasi... Success!
+Getting data for set number 7: dingle... Success!
+Getting data for set number 7: jiayuguan... Success!
+Getting data for set number 7: bandrele... Success!
+Getting data for set number 7: woodward... Success!
+Getting data for set number 7: tres picos... Success!
+Getting data for set number 7: ararangua... Success!
+Getting data for set number 7: porto empedocle... Success!
+Getting data for set number 7: naze... Success!
+Getting data for set number 7: kirakira... Success!
+Getting data for set number 7: baneasa... Success!
+Getting data for set number 7: toliary... City not found
+Getting data for set number 7: hvammstangi... City not found
+Getting data for set number 8: trairi... Success!
+Getting data for set number 8: lukovo... Success!
+Getting data for set number 8: obo... Success!
+Getting data for set number 8: copperas cove... Success!
+Getting data for set number 8: isla mujeres... Success!
+Getting data for set number 8: alamogordo... Success!
+Getting data for set number 8: riberalta... Success!
+Getting data for set number 8: mastic beach... Success!
+Getting data for set number 8: pochutla... Success!
+Getting data for set number 8: yakhroma... Success!
+Getting data for set number 8: dunedin... Success!
+Getting data for set number 8: geraldton... Success!
+Getting data for set number 8: suoyarvi... Success!
+Getting data for set number 8: kasempa... Success!
+Getting data for set number 8: waitati... Success!
+Getting data for set number 8: mackenzie... Success!
+Getting data for set number 8: higuey... City not found
+Getting data for set number 8: beba... Success!
+Getting data for set number 8: potsdam... Success!
+Getting data for set number 8: weiser... Success!
+Getting data for set number 8: bargal... City not found
+Getting data for set number 8: patacamaya... Success!
+Getting data for set number 8: porto novo... Success!
+Getting data for set number 8: kaeo... Success!
+Getting data for set number 8: stonewall... Success!
+Getting data for set number 8: amambai... Success!
+Getting data for set number 8: tralee... Success!
+Getting data for set number 8: korem... Success!
+Getting data for set number 8: tombouctou... Success!
+Getting data for set number 8: lasa... Success!
+Getting data for set number 8: bonfim... Success!
+Getting data for set number 8: tigil... Success!
+Getting data for set number 8: lunglei... Success!
+Getting data for set number 8: elizabeth city... Success!
+Getting data for set number 8: nador... Success!
+Getting data for set number 8: pacific grove... Success!
+Getting data for set number 8: cam ranh... Success!
+Getting data for set number 8: quatre cocos... Success!
+Getting data for set number 8: chicama... Success!
+Getting data for set number 8: lokoja... Success!
+Getting data for set number 8: raha... Success!
+Getting data for set number 8: sungaipenuh... Success!
+Getting data for set number 8: nara... Success!
+Getting data for set number 8: san jose... Success!
+Getting data for set number 8: raga... City not found
+Getting data for set number 8: santa cruz... Success!
+Getting data for set number 8: havre-saint-pierre... Success!
+Getting data for set number 8: high level... Success!
+Getting data for set number 8: fortuna... Success!
+Getting data for set number 8: tsihombe... City not found
+Getting data for set number 9: grindavik... Success!
+Getting data for set number 9: moratuwa... Success!
+Getting data for set number 9: gigmoto... Success!
+Getting data for set number 9: batemans bay... Success!
+Getting data for set number 9: nouadhibou... Success!
+Getting data for set number 9: phalodi... Success!
+Getting data for set number 9: umm lajj... Success!
+Getting data for set number 9: homer... Success!
+Getting data for set number 9: san patricio... Success!
+Getting data for set number 9: sao felix do xingu... Success!
+Getting data for set number 9: malwan... City not found
+Getting data for set number 9: serenje... Success!
+Getting data for set number 9: tarpa... Success!
+Getting data for set number 9: ketchikan... Success!
+Getting data for set number 9: altonia... City not found
+Getting data for set number 9: mamou... Success!
+Getting data for set number 9: parola... Success!
+Getting data for set number 9: port moresby... Success!
+Getting data for set number 9: ayagoz... Success!
+Getting data for set number 9: taonan... Success!
+Getting data for set number 9: rabo de peixe... Success!
+Getting data for set number 9: madukkarai... Success!
+Getting data for set number 9: ambilobe... Success!
+Getting data for set number 9: merauke... Success!
+Getting data for set number 9: rock springs... Success!
+Getting data for set number 9: pitsunda... Success!
+Getting data for set number 9: eyl... Success!
+Getting data for set number 9: banda aceh... Success!
+Getting data for set number 9: newport... Success!
+Getting data for set number 9: durres... Success!
+Getting data for set number 9: sorbhog... Success!
+Getting data for set number 9: boffa... Success!
+Getting data for set number 9: vila... Success!
+Getting data for set number 9: namibe... Success!
+Getting data for set number 9: caramay... Success!
+Getting data for set number 9: tromso... Success!
+Getting data for set number 9: sambava... Success!
+Getting data for set number 9: tumannyy... City not found
+Getting data for set number 9: belmonte... Success!
+Getting data for set number 9: ust-tsilma... Success!
+Getting data for set number 9: mildura... Success!
+Getting data for set number 9: makat... Success!
+Getting data for set number 9: qaqortoq... Success!
+Getting data for set number 9: ampanihy... Success!
+Getting data for set number 9: luderitz... Success!
+Getting data for set number 9: fonte boa... Success!
+Getting data for set number 9: aasiaat... Success!
+Getting data for set number 9: mazyr... Success!
+Getting data for set number 9: siocon... Success!
+Getting data for set number 9: sierra vista... Success!
+Getting data for set number 10: sabang... Success!
+Getting data for set number 10: iacu... Success!
+Getting data for set number 10: salalah... Success!
+Getting data for set number 10: jos... Success!
+Getting data for set number 10: graham... Success!
+Getting data for set number 10: davenport... Success!
+Getting data for set number 10: bilibino... Success!
+Getting data for set number 10: pisco... Success!
+Getting data for set number 10: yunjinghong... City not found
+Getting data for set number 10: mopipi... Success!
+Getting data for set number 10: sisimiut... Success!
+Getting data for set number 10: caohai... Success!
+Getting data for set number 10: troitsko-pechorsk... Success!
+Getting data for set number 10: hobyo... Success!
+Getting data for set number 10: alice springs... Success!
+Getting data for set number 10: hovd... Success!
+Getting data for set number 10: bennettsville... Success!
+Getting data for set number 10: guerrero negro... Success!
+Getting data for set number 10: batagay... Success!
+Getting data for set number 10: vila velha... Success!
+Getting data for set number 10: bose... Success!
+Getting data for set number 10: togur... Success!
+Getting data for set number 10: yar-sale... Success!
+Getting data for set number 10: mandalgovi... Success!
+Getting data for set number 10: praia da vitoria... Success!
+Getting data for set number 10: taunggyi... Success!
+Getting data for set number 10: kantabanji... Success!
+Getting data for set number 10: bosaso... Success!
+Getting data for set number 10: gazojak... Success!
+Getting data for set number 10: flin flon... Success!
+Getting data for set number 10: maniitsoq... Success!
+Getting data for set number 10: aosta... Success!
+Getting data for set number 10: bailleul... Success!
+Getting data for set number 10: hendijan... City not found
+Getting data for set number 10: te anau... Success!
+Getting data for set number 10: copiapo... Success!
+Getting data for set number 10: synya... Success!
+Getting data for set number 10: puerto narino... Success!
+Getting data for set number 10: anqing... Success!
+Getting data for set number 10: sperkhias... City not found
+Getting data for set number 10: gucheng... Success!
+Getting data for set number 10: kruisfontein... Success!
+Getting data for set number 10: ouesso... Success!
+Getting data for set number 10: smithers... Success!
+Getting data for set number 10: sochaczew... Success!
+Getting data for set number 10: tucuman... Success!
+Getting data for set number 10: great falls... Success!
+Getting data for set number 10: chopinzinho... Success!
+Getting data for set number 10: rio grande... Success!
+Getting data for set number 10: penzance... Success!
+Getting data for set number 11: mvuma... Success!
+Getting data for set number 11: cockburn town... Success!
+Getting data for set number 11: manzhouli... Success!
+Getting data for set number 11: ponnani... Success!
+Getting data for set number 11: karpushikha... Success!
+Getting data for set number 11: truro... Success!
+Getting data for set number 11: la crosse... Success!
+Getting data for set number 11: swan river... Success!
+Getting data for set number 11: kachiry... Success!
+Getting data for set number 11: xuanhua... Success!
+Getting data for set number 11: kununurra... Success!
+Getting data for set number 11: hays... Success!
+Getting data for set number 11: honiara... Success!
+Getting data for set number 11: sainte-maxime... Success!
+Getting data for set number 11: pitimbu... Success!
+Getting data for set number 11: tautira... Success!
+Getting data for set number 11: fairbanks... Success!
+Getting data for set number 11: mayo... Success!
+Getting data for set number 11: taree... Success!
+Getting data for set number 11: goiatuba... Success!
+Getting data for set number 11: hukuntsi... Success!
+Getting data for set number 11: lakatoro... Success!
+Getting data for set number 11: henderson... Success!
+Getting data for set number 11: raton... Success!
+Getting data for set number 11: durusu... Success!
+Getting data for set number 11: boden... Success!
+Getting data for set number 11: waterfoot... Success!
+Getting data for set number 11: awjilah... Success!
+Getting data for set number 11: carballo... Success!
+Getting data for set number 11: aldine... Success!
+Getting data for set number 11: mainpuri... Success!
+Getting data for set number 11: nioro... Success!
+Getting data for set number 11: gurgan... City not found
+Getting data for set number 11: samalaeulu... City not found
+Getting data for set number 11: gamba... Success!
+Getting data for set number 11: vilhena... Success!
+Getting data for set number 11: mezen... Success!
+Getting data for set number 11: corinto... Success!
+Getting data for set number 11: aktash... City not found
+Getting data for set number 11: labuhan... Success!
+Getting data for set number 11: kharp... Success!
+Getting data for set number 11: vardo... Success!
+Getting data for set number 11: bogorodskoye... Success!
+Getting data for set number 11: luba... Success!
