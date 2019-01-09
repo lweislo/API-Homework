@@ -12,7 +12,7 @@ import seaborn as sbn
 from scipy import stats
 
 # Import API key
-from api_keys import api_key
+from config import api_key
 import warnings
 warnings.filterwarnings('ignore')
 # Incorporated citipy to determine city based on latitude and longitude
