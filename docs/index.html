@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>WeatherPy for the Web</title>
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="bootstrap.css">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="_variables.css">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+    <div class="mx-auto order-0">
+      <img src="weather-icon.png" class="img-fluid rounded-circle" height="80px" width="80px" alt="WeatherPy logo">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+    </div>
+      <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
+          <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                  <a class="nav-link" href="index.html">WeatherPy</a>
+              </li>
+          </ul>
+      </div>
+      <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown"
+              href="#" role="button" aria-haspopup="true" aria-expanded="false">Plots</a>
+              <div class="dropdown-menu">
+                <a class="dropdown-item" href="viz1.html">Vis1</a>
+                <a class="dropdown-item" href="viz2.html">Vis2</a>
+                <a class="dropdown-item" href="viz3.html">Vis3</a>
+                <a class="dropdown-item" href="viz4.html">Vis4</a>
+                <div class="dropdown-divider"></div>
+                  <a class="dropdown-item" href="index.html">Home</a>
+              </div>
+          </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="all-viz.html">Comparison</a>
+              </li>
+              <li class="nav-item">
+                  <a class="nav-link" href="data.html">Data</a>
+              </li>
+
+          </ul>
+      </div>
+  </nav>
+<!-- THIS IS THE CONTENT PART -->
+<div class="jumbotron jumbotron-fluid bg-light">
+  <div class="container container-fluid">
+    <h4 class="display-5 d-flex justify-content-center">What is the weather like as you approach the equator?</h4>
+    <h4 class="small d-flex justify-content-center">
+      It gets hotter and I can prove it - just look at my plots!</h4>
+  </div>
+</div>
+  <div class="container-fluid">
+    <div class="row">
+
+      <div class="col-md-9 col-sm-12">
+
+        <p>
+          In this project, I created a Python script to visualize the weather of 500+ cities
+          across the world of varying distance from the equator.
+            </p><p>
+
+        Using Python's Numpy, Pandas,
+          and CityPy modules and the OpenWeatherMap API, I was able to generate a dataset that
+          was representative of global land masses.</p>
+        <p>
+          I then charted the data using Seaborn and Matplotlib, comparing values in regions where
+          measurements were taken in daytime and night, looking at the following comparisons:
+        <ul>
+          <li>
+            Temperature (F) vs. Latitude</li>
+          <li>
+            Humidity (%) vs. Latitude
+          </li>
+          <li>
+            Cloudiness (%) vs. Latitude
+          </li>
+          <li>
+            Wind Speed (mph) vs. Latitude
+          </li>
+          </ul>
+        <p>
+          I was able to demonstrate that there is an inverse relationship between absolute value of latitude and temperature.
+        </p>
+        <h1 class="hidden">   </h1>
+<hr />
+
+        <!-- <div class="card group">
+            <div class="card mb-3">
+              <h3 class="card-header">Card header</h3>
+              <div class="card-body">
+                <h5 class="card-title">Special title treatment</h5>
+                <h6 class="card-subtitle text-muted">Support card subtitle</h6>
+              </div>
+              <img style="height: 200px; width: 100%; display: block;" src="data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%22318%22%20height%3D%22180%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20318%20180%22%20preserveAspectRatio%3D%22none%22%3E%3Cdefs%3E%3Cstyle%20type%3D%22text%2Fcss%22%3E%23holder_158bd1d28ef%20text%20%7B%20fill%3Argba(255%2C255%2C255%2C.75)%3Bfont-weight%3Anormal%3Bfont-family%3AHelvetica%2C%20monospace%3Bfont-size%3A16pt%20%7D%20%3C%2Fstyle%3E%3C%2Fdefs%3E%3Cg%20id%3D%22holder_158bd1d28ef%22%3E%3Crect%20width%3D%22318%22%20height%3D%22180%22%20fill%3D%22%23777%22%3E%3C%2Frect%3E%3Cg%3E%3Ctext%20x%3D%22129.359375%22%20y%3D%2297.35%22%3EImage%3C%2Ftext%3E%3C%2Fg%3E%3C%2Fg%3E%3C%2Fsvg%3E" alt="Card image">
+              <div class="card-body">
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              </div>
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Cras justo odio</li>
+                <li class="list-group-item">Dapibus ac facilisis in</li>
+                <li class="list-group-item">Vestibulum at eros</li>
+              </ul>
+              <div class="card-body">
+                <a href="#" class="card-link">Card link</a>
+                <a href="#" class="card-link">Another link</a>
+              </div>
+              <div class="card-footer text-muted">
+                2 days ago
+              </div>
+              </div>
+              <div class="card">
+              <div class="card-body">
+                <h4 class="card-title">Card title</h4>
+                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="#" class="card-link">Card link</a>
+                <a href="#" class="card-link">Another link</a>
+              </div>
+            </div>
+        </div> -->
+      </div>
+      <div class="col-md-3">
+        <p>
+          There will be some boxes here.
+        </p>
+      </div>
+    </div>
+  </div>
+  <!-- footer -->
+  <nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-bottom">
+</nav>
+</body>
+
+</html>
