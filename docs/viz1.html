@@ -13,7 +13,7 @@
   </head>
 <body>
 <!-- Nav bar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-light navgrad">
     <div class="mx-auto order-0">
       <img src="weather-icon.png" class="img-fluid rounded-circle" height="80px" width="80px" alt="Responsive image">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
@@ -33,10 +33,10 @@
               <a class="nav-link dropdown-toggle" data-toggle="dropdown"
               href="#" role="button" aria-haspopup="true" aria-expanded="false">Plots</a>
               <div class="dropdown-menu">
-                <a class="dropdown-item" href="viz1.html">Vis1</a>
-                <a class="dropdown-item" href="viz2.html">Vis2</a>
-                <a class="dropdown-item" href="viz3.html">Vis3</a>
-                <a class="dropdown-item" href="viz4.html">Vis4</a>
+                <a class="dropdown-item" href="viz1.html">Temp vs. Abs. Latitude</a>
+                <a class="dropdown-item" href="viz2.html">Temp vs. Real Latitude</a>
+                <a class="dropdown-item" href="viz3.html">Humidity vs. Latitude</a>
+                <a class="dropdown-item" href="viz4.html">Global summary</a>
                 <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="index.html">Home</a>
               </div>
@@ -53,27 +53,75 @@
   </nav>
   <!-- Content -->
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light"></nav>
-
-
-<div class="container-fluid">
-  <div class="card-group">
-    <div class="card-fluid">
-      <div class="card-body">
-        <h4 class="card-title">Absolute Latitude vs. Temperature</h4>
-        <p class="card-text">We charted temperatures by absolute latitude to see if there is
-        a correlation between nearness to the equator and temperature.</p>
-        <p>
-
-        </p>
-      </div>
-      <img class="card-img-top img-fluid" src="assets/temp-lat.png" alt="Card image">
-    </div>
-  </div>
+<div class="jumbotron jumbotron-fluid jumbograd">
+  <h4 class="display-5 d-flex justify-content-center">Absolute Latitude vs. Temperature</h4>
 </div>
 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2"><!-- White Space -->  </div>
+    <div class="col-md-8">
+      <div class="card-group">
+        <div class="card-fluid">
+          <div class="card-body">
+            <h4 class="card-title">Temperatures drop with increasing distance from the equator</h4>
+            <ul>
+              <li class="card-text">We charted temperatures by absolute latitude to show that there is
+                a correlation between nearness to the equator and temperature.</li>
+              <li>
+                  There is a significant decrease in maximum temperature the farther cities are from the equator.
+              </li>
+            </ul>
+            <img class="card-img-top img-fluid" src="assets/temp-lat.png" alt="Card image">
+            <ul>
+              <li><strong>Cities in daylight:</strong>
+                <ul>
+                  <li>
+                    Slope: -0.8212563491060049.
+                  </li>
+                  <li>
+                     Intercept: 33.73394444644981.
+                  </li>
+                  <li>
+                    R: -0.8375107844554487.
+                  </li>
+                  <li>
+                     P: 2.0765630001537552e-69.
+                  </li>
+                  <li>
+                    SE: 0.03342327403461501
+                  </li>
+                </ul>
+              </li>
+            <li><strong>Cities in darkness:</strong>
+              <ul>
+                <li>
+                  Slope: -0.5275382145582684.
+                </li>
+                <li>
+                   Intercept: 32.04071006739009.
+                </li>
+                <li>
+                  R: -0.7696209757336896.
+                </li>
+                <li>
+                   P: 8.973754451904773e-53.
+                </li>
+                <li>
+                  SE: 0.027090584274665392'
+                </li>
+              </ul>
+            </li>
+            </ul>
+          </div> <!-- card body -- >
+      </div> <!-- card -- >
+    </div> <!-- card group -->
+  </div><!-- column -->
+  <div class="col-md-2"> <!-- White Space --></div>
+</div><!--row-->
+</div><!--container-->
+
 <!-- footer -->
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-bottom">
-</nav>
+<div class="jumbotron jumbotron-fluid jumbograd2"></div>
 </body>
 </html>

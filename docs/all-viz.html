@@ -13,7 +13,7 @@
   </head>
 <body>
 <!-- Nav bar -->
-  <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+  <nav class="navbar navbar-expand-lg navbar-light navgrad">
     <div class="mx-auto order-0">
       <img src="weather-icon.png" class="img-fluid rounded-circle" height="80px" width="80px" alt="Responsive image">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
@@ -33,10 +33,10 @@
               <a class="nav-link dropdown-toggle" data-toggle="dropdown"
               href="#" role="button" aria-haspopup="true" aria-expanded="false">Plots</a>
               <div class="dropdown-menu">
-                <a class="dropdown-item" href="viz1.html">Vis1</a>
-                <a class="dropdown-item" href="viz2.html">Vis2</a>
-                <a class="dropdown-item" href="viz3.html">Vis3</a>
-                <a class="dropdown-item" href="viz4.html">Vis4</a>
+                <a class="dropdown-item" href="viz1.html">Temp vs. Abs. Latitude</a>
+                <a class="dropdown-item" href="viz2.html">Temp vs. Real Latitude</a>
+                <a class="dropdown-item" href="viz3.html">Humidity vs. Latitude</a>
+                <a class="dropdown-item" href="viz4.html">Global summary</a>
                 <div class="dropdown-divider"></div>
                   <a class="dropdown-item" href="index.html">Home</a>
               </div>
@@ -52,8 +52,65 @@
       </div>
   </nav>
   <!-- Content -->
-  <!-- footer -->
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-bottom">
-</nav>
+
+<div class="jumbotron jumbotron-fluid jumbograd">
+  <h4 class="display-5 d-flex justify-content-center">Weather Visualization Summary</h4>
+</div>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-md-2"><!-- White Space -->  </div>
+    <div class="col-md-8">
+      <div class="card-group">
+        <div class="card-fluid">
+          <div class="card-body">
+            <h4 class="card-title">Absolute Latitude vs. Temperature</h4>
+            <img class="card-img-top img-fluid" src="assets/temp-lat.png" alt="Card image">
+          </div> <!-- card body -- >
+      </div> <!-- card -- >
+        <div class="card-fluid">
+          <div class="card-body">
+            <h4 class="card-title">Real Latitude vs. Temperature</h4>
+            <img class="card-img-top img-fluid" src="assets/temp-real-lat.png" alt="Card image">
+          </div> <!-- card body -- >
+      </div> <!-- card -- >
+        <div class="card-fluid">
+          <div class="card-body">
+            <h4 class="card-title">Real Latitude vs. Humidity</h4>
+            <img class="card-img-top img-fluid" src="assets/hum-lat.png" alt="Card image">
+          </div> <!-- card body -- >
+      </div> <!-- card -- >
+        <div class="card-fluid">
+          <div class="card-body">
+            <h4 class="card-title">Randomness (Day/Night)</h4>
+            <img class="card-img-top img-fluid" src="assets/randomness.png" alt="Card image">
+          </div> <!-- card body -- >
+      </div> <!-- card -- >
+        <div class="card-fluid">
+          <div class="card-body">
+            <h4 class="card-title">Cloudiness</h4>
+            <img class="card-img-top img-fluid" src="assets/coord-cloud.png" alt="Card image">
+          </div> <!-- card body -- >
+      </div> <!-- card -- >
+        <div class="card-fluid">
+          <div class="card-body">
+            <h4 class="card-title">Humidity</h4>
+            <img class="card-img-top img-fluid" src="assets/coord-humid.png" alt="Card image">
+          </div> <!-- card body -- >
+      </div> <!-- card -- >
+        <div class="card-fluid">
+          <div class="card-body">
+            <h4 class="card-title">Wind Speed</h4>
+            <img class="card-img-top img-fluid" src="assets/coord-wind.png" alt="Card image">
+          </div> <!-- card body -- >
+      </div> <!-- card -- >
+    </div> <!-- card group -->
+  </div><!-- column -->
+  <div class="col-md-2"> <!-- White Space --></div>
+</div><!--row-->
+</div><!--container-->
+
+<!-- footer -->
+<div class="jumbotron jumbotron-fluid jumbograd2"></div>
 </body>
 </html>

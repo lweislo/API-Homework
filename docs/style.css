@@ -1,0 +1,9 @@
+.navgrad {
+  background-image: linear-gradient(#85dbfc, #2694bf);
+}
+.jumbograd {
+  background-image: linear-gradient(#d4f1fc, #f9f9f9);
+}
+.jumbograd2 {
+  background-image: linear-gradient(#fcfbf9, #996341);
+}
