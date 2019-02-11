@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="bootstrap.css">
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="_variables.css">
+
   </head>
 
 <body>
@@ -68,21 +69,24 @@
   </div>
   <!--  This is the table -->
 <div class="container">
-  <table class="table table-bordered table-condensed table-responsive table-striped table-hover">
+  <div class="row">
+    <div class="col-md-12">
+  <table id="dtData" class="table table-bordered table-condensed table-responsive
+   table-striped table-hover w-auto" data-toggle="table">
     <thead class="table">
       <tr><th title="Index">Index</th>
-        <th title="Field #2">City</th>
-        <th title="Field #3">Humidity</th>
-        <th title="Field #4">Min Temp</th>
-        <th title="Field #5">Max Temp</th>
-        <th title="Field #6">Wind Speed</th>
-        <th title="Field #7">Cloudiness</th>
-        <th title="Field #8">Date</th>
-        <th title="Field #9">Country</th>
-        <th title="Field #10">Sunrise</th>
-        <th title="Field #11">Sunset</th>
-        <th title="Field #12">Lat</th>
-        <th title="Field #13">Lon</th>
+        <th title="City">City</th>
+        <th title="Humidity">Humidity</th>
+        <th title="Min Temp">Min Temp</th>
+        <th title="Max Temp">Max Temp</th>
+        <th title="Wind Speed">Wind Speed</th>
+        <th title="Cloudiness">Cloudiness</th>
+        <th title="Date">Date</th>
+        <th title="Country">Country</th>
+        <th title="Sunrise">Sunrise</th>
+        <th title="Sunset">Sunset</th>
+        <th title="Latitude">Lat</th>
+        <th title="Longitude">Lon</th>
         </tr></thead>
       <tbody class="table-success:hover"><tr>
         <td align="right">0</td>
@@ -7917,8 +7921,8 @@
       </tbody>
     </table>
   </div>
-
-
+  </div>
+  </div>
 
 <!-- Footer -->
 <div class="jumbotron jumbotron-fluid jumbograd2"></div>

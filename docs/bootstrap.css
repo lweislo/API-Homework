@@ -1666,7 +1666,8 @@ pre code {
 
 .table th,
 .table td {
-  padding: 0.75rem;
+
+  padding: 0.55rem;
   vertical-align: top;
   border-top: 1px solid #DFD7CA;
 }
@@ -5222,7 +5223,7 @@ input[type="button"].btn-block {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #8E8C84;
+  color: #193344;
   background-color: #F8F5F0;
   border: 1px solid #DFD7CA;
 }

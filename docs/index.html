@@ -12,25 +12,25 @@
   <link rel="stylesheet" href="_variables.css">
 </head>
 
-<body>
+
   <nav class="navbar navbar-expand-lg navbar-light navgrad fixed-top">
-    <div class="mx-auto order-0">
+    <div class="ml-auto order-0 ml-auto">
       <a href="index.html"><img src="weather-icon.png" class="img-fluid rounded-circle" height="80" width="80" alt="WeatherPy logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
             <span class="navbar-toggler-icon"></span>
         </button>
     </div>
-      <div class="navbar-collapse collapse w-100 order-1 order-md-0">
-          <ul class="navbar-nav mr-auto">
+      <div class="navbar-collapse collapse w-100 order-1 order-md-0 ml-auto">
+          <ul class="navbar-nav ml-auto">
               <li class="nav-item active">
                   <a class="nav-link" href="index.html">WeatherPy</a>
               </li>
           </ul>
       </div>
-      <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+      <div class="navbar-collapse collapse w-100 order-last dual-collapse2 mr-auto">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown"
+              <a class="nav-link dropdown-toggle dropdown-item:hover" data-toggle="dropdown"
               href="#" role="button" aria-haspopup="true" aria-expanded="false">Plots</a>
               <div class="dropdown-menu">
                 <a class="dropdown-item" href="viz1.html">Temp vs. Abs. Latitude</a>
@@ -51,19 +51,21 @@
       </div>
   </nav>
 <!-- THIS IS THE CONTENT PART -->
-
-  <div class="jumbotron jumbograd">
-    <h4 class="large d-flex justify-content-bottom">
+<body>
+  <div class="jumbotron jumbotron-fluid jumbograd">
+    <div class="container text-center p-t-3">
+      <h4 class="large d-flex justify-content-center">
       What is the weather like as you approach the equator?
-    </h4>
-    <h4 class="small d-flex justify-content-center">
+      </h4>
+      <h4 class="small d-flex justify-content-center">
       It gets hotter and I can prove it - just look at my plots!
-    </h4>
+      </h4>
+    </div>
   </div>
 
 <div class="container">
   <div class="row">
-    <div class="col-sm-12 col-md-8">
+    <div class="col-sm-12 col-md-7">
       <p>
         This project aimed to show that global temperatures rise nearer to the equator.
         To test this theory, I created a Python script to visualize the weather of 500+ cities
@@ -92,26 +94,26 @@
       </p>
     </div><!-- col -->
 <!-- the sidebar -->
-    <div class="col-sm-12 col-md-4">
+    <div class="col-sm-12 col-md-5">
       <div class="container">
         <div class="row">
             <div class="col-sm-12 d-flex justify-content-center">
               <h3>Visualizations</h3>
-              <hr />
             </div>
           </div>
+          <hr />
         <div class="row">
-          <div class="col-md-6">
-            <img class="img-thumbnail" src="assets/temp-lat.png" alt="Abs Lat vs Temp Image">
+          <div class="col-md-6 col-sm-3"><a href="viz1.html" class="page-link">
+            <img class="img-thumbnail" src="assets/temp-lat.png" alt="Abs Lat vs Temp Image"></a>
           </div>
-          <div class="col-md-6">
-          <img class="img-thumbnail" src="assets/temp-real-lat.png" alt="Real Lat vs Temp Image">
+          <div class="col-md-6 col-sm-3"><a href="viz2.html" class="page-link">
+          <img class="img-thumbnail" src="assets/temp-real-lat.png" alt="Real Lat vs Temp Image"></a>
           </div>
-          <div class="col-md-6">
-            <img class="img-thumbnail" src="assets/hum-lat.png" alt="Lat vs Humidity Image">
+          <div class="col-md-6 col-sm-3"><a href="viz3.html" class="page-link">
+            <img class="img-thumbnail" src="assets/hum-lat.png" alt="Lat vs Humidity Image"></a>
           </div>
-          <div class="col-md-6">
-            <img class="img-thumbnail" src="assets/randomness.png" alt="Randomness of cities Image">
+          <div class="col-md-6 col-sm-3"><a href="viz4.html" class="page-link">
+            <img class="img-thumbnail" src="assets/randomness.png" alt="Randomness of cities Image"></a>
           </div>
 
         </div><!--row-->
