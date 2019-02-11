@@ -2,8 +2,31 @@
   background-image: linear-gradient(#85dbfc, #2694bf);
 }
 .jumbograd {
-  background-image: linear-gradient(#d4f1fc, #f9f9f9);
+  background-image: linear-gradient(#d4f1fc, #fff);
 }
 .jumbograd2 {
-  background-image: linear-gradient(#fcfbf9, #996341);
+  background-image: linear-gradient(#fff, #d4f1fc);
+}
+.navbar-collapse {
+  justify-content: flex-end;
+}
+
+.box {
+  min-height: 50px;
+  padding: 5px;
+  margin: 5px;
+  font-weight: 800;
+  color: #fff;
+}
+
+.skyblue {
+  background: deepskyblue;
+}
+
+.purple {
+  background: rebeccapurple;
+}
+
+.red {
+  background: indianred;
 }
