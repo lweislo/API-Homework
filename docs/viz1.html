@@ -1,7 +1,8 @@
-<!doctype='fa-html5'>
-<html lang='en-us'>
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WeatherPy for the Web</title>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
@@ -59,20 +60,17 @@
 
 <div class="container-fluid">
   <div class="row">
-    <div class="col-md-2"><!-- White Space -->  </div>
-    <div class="col-md-8">
-      <div class="card-group">
-        <div class="card-fluid">
-          <div class="card-body">
-            <h4 class="card-title">Temperatures drop with increasing distance from the equator</h4>
+      <div class="col-md-2"><!-- White Space -->  </div>
+      <div class="col-md-8">
+            <h4 class="d-flex justify-content-left">Temperatures drop with increasing distance from the equator</h4>
             <ul>
-              <li class="card-text">We charted temperatures by absolute latitude to show that there is
+              <li>We charted temperatures by absolute latitude to show that there is
                 a correlation between nearness to the equator and temperature.</li>
               <li>
                   There is a significant decrease in maximum temperature the farther cities are from the equator.
               </li>
             </ul>
-            <img class="card-img-top img-fluid" src="assets/temp-lat.png" alt="Card image">
+            <img class="d-flex justify-content-center img-fluid" src="assets/temp-lat.png" alt="Card image">
             <ul>
               <li><strong>Cities in daylight:</strong>
                 <ul>
@@ -113,12 +111,9 @@
               </ul>
             </li>
             </ul>
-          </div> <!-- card body -- >
-      </div> <!-- card -- >
-    </div> <!-- card group -->
-  </div><!-- column -->
-  <div class="col-md-2"> <!-- White Space --></div>
-</div><!--row-->
+        </div><!-- column -->
+      <div class="col-md-2"> <!-- White Space --></div>
+  </div><!--row-->
 </div><!--container-->
 
 <!-- footer -->

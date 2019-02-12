@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WeatherPy for the Web</title>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
@@ -13,7 +13,7 @@
 </head>
 
 
-  <nav class="navbar navbar-expand-lg navbar-light navgrad fixed-top">
+  <nav class="navbar navbar-expand-lg navbar-light navgrad fixed-top clearfix">
     <div class="ml-auto order-0 ml-auto">
       <a href="index.html"><img src="weather-icon.png" class="img-fluid rounded-circle" height="80" width="80" alt="WeatherPy logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
@@ -53,19 +53,25 @@
 <!-- THIS IS THE CONTENT PART -->
 <body>
   <div class="jumbotron jumbotron-fluid jumbograd">
-    <div class="container text-center p-t-3">
-      <h4 class="large d-flex justify-content-center">
-      What is the weather like as you approach the equator?
-      </h4>
-      <h4 class="small d-flex justify-content-center">
-      It gets hotter and I can prove it - just look at my plots!
-      </h4>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+          <h4 class="text-center p-t-3 large d-flex justify-content-center">
+          What is the weather like as you approach the equator?
+          </h4>
+          <h4 class="small d-flex justify-content-center">
+          It gets hotter and I can prove it - just look at my plots!
+          </h4>
+        </div>
+      </div>
     </div>
   </div>
 
 <div class="container">
   <div class="row">
     <div class="col-sm-12 col-md-7">
+      <h3  class="d-flex justify-content-center">Project Description</h3>
+    <hr />
       <p>
         This project aimed to show that global temperatures rise nearer to the equator.
         To test this theory, I created a Python script to visualize the weather of 500+ cities
@@ -95,13 +101,11 @@
     </div><!-- col -->
 <!-- the sidebar -->
     <div class="col-sm-12 col-md-5">
-      <div class="container">
-        <div class="row">
             <div class="col-sm-12 d-flex justify-content-center">
               <h3>Visualizations</h3>
             </div>
-          </div>
           <hr />
+      <div class="container">
         <div class="row">
           <div class="col-md-6 col-sm-3"><a href="viz1.html" class="page-link">
             <img class="img-thumbnail" src="assets/temp-lat.png" alt="Abs Lat vs Temp Image"></a>
@@ -115,7 +119,6 @@
           <div class="col-md-6 col-sm-3"><a href="viz4.html" class="page-link">
             <img class="img-thumbnail" src="assets/randomness.png" alt="Randomness of cities Image"></a>
           </div>
-
         </div><!--row-->
       </div><!--container-->
     </div><!--col-->
