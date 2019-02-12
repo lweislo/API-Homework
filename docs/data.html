@@ -10,29 +10,27 @@
   <link rel="stylesheet" href="bootstrap.css">
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="_variables.css">
+</head>
 
-  </head>
 
-<body>
-  <!-- Nav bar -->
-  <nav class="navbar navbar-expand-lg navbar-light navgrad">
-    <div class="mx-auto order-0">
-      <img src="weather-icon.png" class="img-fluid rounded-circle" height="80" width="80" alt="Responsive image">
+  <nav class="navbar navbar-expand-lg navbar-light navgrad fixed-top">
+    <div class="ml-auto order-0 ml-auto">
+      <a href="index.html"><img src="weather-icon.png" class="img-fluid rounded-circle" height="80" width="80" alt="WeatherPy logo"></a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
             <span class="navbar-toggler-icon"></span>
         </button>
     </div>
-      <div class="navbar-collapse collapse w-100 order-1 order-md-0 dual-collapse2">
-          <ul class="navbar-nav mr-auto">
+      <div class="navbar-collapse collapse w-100 order-1 order-md-0 ml-auto">
+          <ul class="navbar-nav ml-auto">
               <li class="nav-item active">
                   <a class="nav-link" href="index.html">WeatherPy</a>
               </li>
           </ul>
       </div>
-      <div class="navbar-collapse collapse w-100 order-3 dual-collapse2">
+      <div class="navbar-collapse collapse w-100 order-last dual-collapse2 mr-auto">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown"
+              <a class="nav-link dropdown-toggle dropdown-item:hover" data-toggle="dropdown"
               href="#" role="button" aria-haspopup="true" aria-expanded="false">Plots</a>
               <div class="dropdown-menu">
                 <a class="dropdown-item" href="viz1.html">Temp vs. Abs. Latitude</a>
@@ -43,31 +41,31 @@
                   <a class="dropdown-item" href="index.html">Home</a>
               </div>
           </li>
-              <li class="nav-item">
-                  <a class="nav-link" href="all-viz.html">Comparison</a>
-              </li>
-              <li class="nav-item">
-                  <a class="nav-link" href="data.html">Data</a>
-              </li>
-
+          <li class="nav-item">
+              <a class="nav-link" href="all-viz.html">Comparison</a>
+          </li>
+          <li class="nav-item">
+              <a class="nav-link" href="data.html">Data</a>
+          </li>
           </ul>
       </div>
   </nav>
-
+<!-- THIS IS THE CONTENT PART -->
+<body>
   <div class="jumbotron jumbotron-fluid jumbograd">
-    <div class="container container-fluid display-5 d-flex justify-content-center">
+    <div class="container">
       <div class="row">
-        <div class="col-md-2"></div>
-      <div class="col-md-8">
-        <h3 class="d-flex justify-content-center">CityPy - OpenWeatherMap Dataset</h3>
-        <p class="d-flex justify-content-center">
-        This data was generated using a script to find the closest city to a list of randomly
-        generated latitude and longitude points. Weather data was then gathered for each city
-        using the OpenWeatherMap API.</p>
-      </div><div class="col-md-2"></div>
-    </div>
+        <div class="col-md-12">
+          <h3 class="d-flex justify-content-center">CityPy - OpenWeatherMap Dataset</h3>
+          <p class="d-flex justify-content-center">
+          This data was generated using a script to find the closest city to a list of randomly
+          generated latitude and longitude points. Weather data was then gathered for each city
+          using the OpenWeatherMap API.</p>
+        </div>
+      </div>
     </div>
   </div>
+
   <!--  This is the table -->
 <div class="container">
   <div class="row">
