@@ -24,7 +24,21 @@
     background-color: #85dbfc;
     color: #2694bf;
 }
+@mixin width {
+    width: auto !important;
+}
 
+table.table-fit {
+    width: auto !important;
+    table-layout: auto !important;
+}
+table.table-fit thead th, table.table-fit tfoot th {
+    width: auto !important;
+}
+table.table-fit tbody td, table.table-fit tfoot td {
+    width: auto !important;
+}
+#dtData {font-size: 0.75rem;}
 body {
   margin-top: 50px;
 }

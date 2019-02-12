@@ -13,43 +13,44 @@
 </head>
 
 
-  <nav class="navbar navbar-expand-lg navbar-light navgrad fixed-top">
-    <div class="ml-auto order-0 ml-auto">
-      <a href="index.html"><img src="weather-icon.png" class="img-fluid rounded-circle" height="80" width="80" alt="WeatherPy logo"></a>
+<nav class="navbar navbar-expand-lg navbar-light navgrad fixed-top">
+  <!-- <div class="ml-auto order-first ml-auto"> -->
+  <div class="navbar-brand d-flex w-50 mr-auto">
+    <a href="index.html"><img src="weather-icon.png" class="img-fluid rounded-circle" height="50rem" width="50rem" alt="WeatherPy logo"></a>
+    <!-- <div class="navbar-collapse collapse w-100 order-first order-md-0 ml-auto">-->
+        <ul class="navbar-nav">
+            <li class="navbar-nav nav-item active">
+                <a class="nav-link" href="index.html">WeatherPy</a>
+            </li>
+        </ul>
+      </div>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".dual-collapse2">
             <span class="navbar-toggler-icon"></span>
         </button>
     </div>
-      <div class="navbar-collapse collapse w-100 order-1 order-md-0 ml-auto">
-          <ul class="navbar-nav ml-auto">
-              <li class="nav-item active">
-                  <a class="nav-link" href="index.html">WeatherPy</a>
-              </li>
-          </ul>
-      </div>
-      <div class="navbar-collapse collapse w-100 order-last dual-collapse2 mr-auto">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle dropdown-item:hover" data-toggle="dropdown"
-              href="#" role="button" aria-haspopup="true" aria-expanded="false">Plots</a>
-              <div class="dropdown-menu">
-                <a class="dropdown-item" href="viz1.html">Temp vs. Abs. Latitude</a>
-                <a class="dropdown-item" href="viz2.html">Temp vs. Real Latitude</a>
-                <a class="dropdown-item" href="viz3.html">Humidity vs. Latitude</a>
-                <a class="dropdown-item" href="viz4.html">Global summary</a>
-                <div class="dropdown-divider"></div>
-                  <a class="dropdown-item" href="index.html">Home</a>
-              </div>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="all-viz.html">Comparison</a>
-          </li>
-          <li class="nav-item">
-              <a class="nav-link" href="data.html">Data</a>
-          </li>
-          </ul>
-      </div>
-  </nav>
+    <div class="navbar-collapse collapse w-100 order-last dual-collapse2 mr-auto">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle dropdown-item:hover" data-toggle="dropdown"
+            href="#" role="button" aria-haspopup="true" aria-expanded="false">Plots</a>
+            <div class="dropdown-menu">
+              <a class="dropdown-item" href="viz1.html">Temp vs. Abs. Latitude</a>
+              <a class="dropdown-item" href="viz2.html">Temp vs. Real Latitude</a>
+              <a class="dropdown-item" href="viz3.html">Humidity vs. Latitude</a>
+              <a class="dropdown-item" href="viz4.html">Global summary</a>
+              <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="index.html">Home</a>
+            </div>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="all-viz.html">Comparison</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" href="data.html">Data</a>
+        </li>
+        </ul>
+    </div>
+</nav>
 <!-- THIS IS THE CONTENT PART -->
 <body>
   <div class="jumbotron jumbotron-fluid jumbograd">
