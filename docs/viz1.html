@@ -1,18 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
   <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1.0">
   <title>WeatherPy for the Web</title>
   <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.1/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
   <link rel="stylesheet" href="bootstrap.css">
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="_variables.css">
 </head>
-
-
 <nav class="navbar navbar-expand-lg navbar-light navgrad fixed-top">
   <!-- <div class="ml-auto order-first ml-auto"> -->
   <div class="navbar-brand d-flex w-50 mr-auto">
@@ -28,7 +26,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
     </div>
-    <div class="navbar-collapse collapse w-100 order-last dual-collapse2 mr-auto">
+    <div class="navbar-collapse collapse w-100 order-last dual-collapse2 mr-auto navbar-expand-sm">
         <ul class="navbar-nav ml-auto">
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle dropdown-item:hover" data-toggle="dropdown"
@@ -44,10 +42,13 @@
         </li>
         <li class="nav-item">
             <a class="nav-link" href="all-viz.html">Comparison</a>
+
         </li>
         <li class="nav-item">
             <a class="nav-link" href="data.html">Data</a>
+
         </li>
+
         </ul>
     </div>
 </nav>
@@ -68,8 +69,7 @@
 
 <div class="container-fluid">
   <div class="row">
-      <div class="col-md-2"><!-- White Space -->  </div>
-      <div class="col-md-8">
+      <div class="col-md-7 col-sm-12">
             <h4 class="d-flex justify-content-left">Temperatures drop with increasing distance from the equator</h4>
             <ul>
               <li>We charted temperatures by absolute latitude to show that there is
@@ -120,11 +120,42 @@
             </li>
             </ul>
         </div><!-- column -->
-      <div class="col-md-2"> <!-- White Space --></div>
+        <div class="col-sm-12 col-md-5">
+            <div class="col-sm-12 d-flex justify-content-left">
+              <h3>Visualizations</h3>
+            </div>
+          <hr />
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 col-sm-3"><a href="viz1.html" class="page-link">
+            <img class="img-thumbnail" src="assets/temp-lat.png" alt="Abs Lat vs Temp Image"></a>
+          </div>
+          <div class="col-md-6 col-sm-3"><a href="viz2.html" class="page-link">
+          <img class="img-thumbnail" src="assets/temp-real-lat.png" alt="Real Lat vs Temp Image"></a>
+          </div>
+          <div class="col-md-6 col-sm-3"><a href="viz3.html" class="page-link">
+            <img class="img-thumbnail" src="assets/hum-lat.png" alt="Lat vs Humidity Image"></a>
+          </div>
+          <div class="col-md-6 col-sm-3"><a href="viz4.html" class="page-link">
+            <img class="img-thumbnail" src="assets/randomness.png" alt="Randomness of cities Image"></a>
+          </div>
+            </div><!--row-->
+        </div><!--container-->
+      </div>
   </div><!--row-->
 </div><!--container-->
+  <!-- footer -->
+<div class="jumbotron jumbotron-fluid jumbograd2">
 
-<!-- footer -->
-<div class="jumbotron jumbotron-fluid jumbograd2"></div>
+      <nav class="navbar navbar-expand-lg navbar-light navgrad fixed-bottom">
+        <ul class="navbar-nav mr-auto">
+          <li class="navbar-nav nav-item active"><a href="https://github.com/lweislo/API-Homework" class="nav-link">Project GitHub Page</a>
+          </li>
+          <li class="navbar-nav nav-item active"><a href="#top" class="nav-link">Back to top</a>
+          </li>
+        <ul>
+        </nav>
+
+</div>
 </body>
 </html>

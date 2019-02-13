@@ -39,10 +39,22 @@ table.table-fit tbody td, table.table-fit tfoot td {
     width: auto !important;
 }
 #dtData {font-size: 0.75rem;}
-body {
-  margin-top: 50px;
-}
+  body {
+    margin-top: 50px;
+  }
 @media (max-width: 576px) {
   .jumbotron {
-    margin-top: 6rem;
+    margin-top: 4.825rem;
   }
+    body {
+      margin-top: 20px;
+    }
+.nav > li.dropdown.open {
+    position: static;
+}
+.nav > li.dropdown.open .dropdown-menu {
+    display:table; width: 100%; text-align: center; left:0; right:0;
+}
+.dropdown-menu>li {
+    display: table-cell;
+}
