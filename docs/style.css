@@ -1,11 +1,17 @@
+.jumbotron-img{
+ background-image: url('assets/clouds.jpg');
+ background-size: cover;
+ background-position: top;
+ background-repeat: no-repeat;
+}
 .navgrad {
-  background-image: linear-gradient(#85dbfc, #2694bf);
+  background-image: linear-gradient(#0591c6, #a7cde2);
 }
 .jumbograd {
-  background-image: linear-gradient(#d4f1fc, #fff);
+  background-image: linear-gradient(#a7cde2, #fff);
 }
 .jumbograd2 {
-  background-image: linear-gradient(#fff, #d4f1fc);
+  background-image: linear-gradient(#fff, #0591c6);
 }
 .navbar-collapse {
   justify-content: flex-end;
