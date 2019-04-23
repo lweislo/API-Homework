@@ -1,6 +1,6 @@
 # Unit 6 | Assignment - What's the Weather Like?
 
-See the web application version of this assignment -> https://lweislo.github.io/API-Homework/
+See the web application version of this assignment -> https://lweislo.github.io/API-Weather/
 
 ## Background
 
