@@ -25,6 +25,6 @@ This assignment asked to use various Python libraries, Matplotlib and Pandas to 
 
 The .csv file created by the above functions can then be analysed by running weather_analysis(filename). This puts the data into a current dataframe that can safely be subjected to numerous plots or manipulations without altering the original dataset. 
 
+## Plotting the data
 
-
-
+Matplotlib and Seaborn were used to visualize the weather data to test the hypothesis that weather changes with proximity to the equator. A web site using Bootstrap styles was created to display the visualizations.
